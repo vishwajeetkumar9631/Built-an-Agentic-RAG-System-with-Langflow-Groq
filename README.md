@@ -1,3 +1,4 @@
+<img width="1920" height="1020" alt="Screenshot 2026-03-03 223522" src="https://github.com/user-attachments/assets/f61d17a7-8aeb-477e-be2c-bde71f7fb8d8" />
 # Built-an-Agentic-RAG-System-with-Langflow-Groq
 Excited to share that I’ve successfully completed an Agentic Retrieval-Augmented Generation (RAG) system using Langflow and Groq LPU-powered inference.
 # 🤖 Agentic RAG System with Langflow + Groq
@@ -41,3 +42,5 @@ Proper tool registration is critical in agent frameworks.
 If a model attempts to call a tool not included in `request.tools`, validation fails.
 
 Understanding this improved system robustness significantly.<img width="1920" height="1080" alt="langflow" src="https://github.com/user-attachments/assets/0e59282d-8135-40df-b200-214dfe230492" />
+
+the response for the agentic ai is ![Uploading Screenshot 2026-03-03 223522.png…]()
